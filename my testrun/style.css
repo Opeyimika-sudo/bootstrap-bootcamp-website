@@ -1,0 +1,26 @@
+@media(min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+}
+
+@media(max-width:767px) {
+    .img-input {
+        max-width: 80%;
+    }
+}
+
+.button-line {
+    text-decoration: none;
+    color: black;
+}
+
+.button-line:hover {
+    color: black;
+}
+
+span {
+    color: #4c5152;
+}
+
+
