@@ -9,10 +9,10 @@ The project helped me learn Bootstrap, often scouring through documentation for 
 ## Implementations
 I had to implement a Modal that is seen when the Start Enrollment button is clicked, a Map showing our office location using the Mapbox API and an Accordion for the Frequently Asked Questions which initially shows only the questons but when clicked, the answer is in the dropdown section.
 
-### Images
+## Images
 ![A screenshot of the Accordion Feature](img/accordion-1.jpg)
 ![A screenshot of the Modal Feature](img/modal-1.jpg)
 
-#### Live URL
+## Live URL
 Live Site : https://opeyimika-sudo.github.io/bootstrap-bootcamp-website/
 
